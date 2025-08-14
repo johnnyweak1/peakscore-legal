@@ -4,57 +4,89 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+**Effective Date:** 2025-06-27
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This privacy policy applies to the **Peak Score** app (hereafter referred to as the "Application") for mobile devices, created by **Jan Słaby** (hereafter referred to as the "Service Provider"), and offered as a **Freemium** service. This service is intended for use **AS IS**.
 
-<br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Information Collection and Use
+We collect information when you download and use the Application. This information may include:
+* Your device's Internet Protocol address (e.g., IP address)
+* The pages/screens visited, time and date of your visit, and time spent on those pages
+* The total time spent in the Application
+* Your device's operating system and technical specifications
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+We **do not collect precise location data** (e.g., GPS coordinates) from your mobile device.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+For a better user experience, we may ask you to provide certain personally identifiable information, such as:
+* Your email address
+* Your first name
 
-<br>
+This information will be retained and used strictly as described in this Privacy Policy, including for support, product updates, and promotional communication (only if applicable).
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## Data We Collect and Why
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+| Category | Purpose |
+|----------|--------|
+| Device IP address, OS, usage stats | To monitor and improve app performance |
+| Crash reports and diagnostics | To identify bugs and enhance stability |
+| Email and first name (if provided) | For account-related communication and support |
+| Aggregated analytics data | For user behavior analysis and UX optimization |
 
-<br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## Third-Party Services
+We may share anonymized and aggregated data with third-party service providers to improve our services. These third parties **do not** have access to personal data that could identify you individually.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+Below are the services we use along with links to their respective privacy policies:
+* Google Analytics for Firebase
+* Firebase Crashlytics
+* RevenueCat
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
-<br>
+## Disclosure of Data
+We may disclose your information:
+* To comply with legal obligations (e.g., a court order or subpoena)
+* When we believe it is necessary to protect our rights, your safety, or investigate fraud
+* To trusted service providers working on our behalf, under data protection agreements
+* If the service is involved in a merger, acquisition, or asset sale
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
 
-<br>
+## Opt-Out Rights
+You can stop all collection of information by the Application by **uninstalling** it. This can be done using the standard uninstall process on your device or through the app store.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+If you wish to opt out of email communications or request data deletion, please contact us at **peakscore.help@gmail.com**.
+
+
+## Data Retention Policy
+We retain **User-Provided Data** (such as your email) for as long as you use the Application and for a reasonable time thereafter.
+
+We retain **automatically collected data** (e.g., usage statistics, crash logs) as long as necessary to fulfill the purposes outlined in this policy.
+
+To request deletion of your data, contact us at: **peakscore.help@gmail.com**. We will respond within a reasonable timeframe.
+
+
+## Children's Privacy
+The Application is **not intended for children under the age of 13**, and we do not knowingly collect personally identifiable information from them.
+
+If we become aware that we have inadvertently received personal data from a user under 13, we will immediately delete such information from our servers.
+
+If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us at **peakscore.help@gmail.com**, and we will take appropriate action.
+
+
+## Security
+We take reasonable steps to protect your information through physical, electronic, and administrative safeguards. However, please be aware that no method of transmission over the Internet or method of electronic storage is 100% secure.
+
+
+## Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. You are advised to review this page periodically. Continued use of the Application after updates constitutes your acceptance of the new terms.
+
+
+## Your Consent
+By using the Application, you consent to the collection, use, and sharing of your information as outlined in this Privacy Policy.
+
+## Contact Us
+If you have any questions or concerns regarding this Privacy Policy or the handling of your data, please contact us:
+
+📧 **peakscore.help@gmail.com**

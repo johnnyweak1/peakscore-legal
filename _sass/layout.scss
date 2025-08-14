@@ -29,10 +29,10 @@
 }
 
 .subPageHeaderBackground {
-	background-color: #fff;
+	background-color: $body-color;
 }
 
-.container {					// Set up the container for the site content
+.container {					
 	display: grid;
 	margin: auto;
 	max-width: $content-width;
@@ -50,12 +50,45 @@
 
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
-	background-color: #fff;
+	background-color: $body-color;
+	
+	.markdown-body {
+		color: $feature-title-color;
+		
+		h1, h2, h3, h4, h5, h6 {
+			color: $feature-title-color;
+		}
+		
+		a {
+			color: $accent-color;
+		}
+		
+		table th, table td {
+			border-color: $feature-text-color;
+			background-color: rgba($body-color, 0.8);
+		}
+		
+		table th {
+			background-color: rgba($feature-icons-background-color, 0.3);
+		}
+		
+		table tr {
+			background-color: transparent;
+		}
+		
+		table tr:nth-child(2n) {
+			background-color: rgba($feature-icons-background-color, 0.1);
+		}
+		
+		hr {
+			background-color: $feature-text-color;
+		}
+	}
 }
 
 @media only screen and (max-width: 768px) {
 
-	.container {					// Set up the container for the site content
+	.container {
 		grid-template-rows: 80px 811px auto auto;
 	}
 }
@@ -212,30 +245,30 @@ nav > ul li:last-child {
 nav > ul li a:link,
 nav > ul li a:visited {
 	text-decoration: none;
-	color: rgba($header-title-color, 0.6);
+	color: $topbar-link-color;
 }
 
 nav > ul li a:hover,
 nav > ul li a:active {
 	text-decoration: none;
-	color: rgba($header-title-color, 1);
+	color: $topbar-link-color-hover;
 }
 
 
 
 // Sub Page Header Styling
 .subPageHeaderBackground .logo > p {
-	color: #000;
+	color: $header-title-color;
 }
 
 .subPageHeaderBackground nav > ul li a:link,
 .subPageHeaderBackground nav > ul li a:visited {
-	color: rgba(#000, 0.6);
+	color: $topbar-link-color;
 }
 
 .subPageHeaderBackground nav > ul li a:hover,
 .subPageHeaderBackground nav > ul li a:active {
-	color: rgba(#000, 1);
+	color: $topbar-link-color-hover;
 }
 
 
@@ -611,6 +644,7 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	margin-top: 60px;
 }
 
 .footerText {

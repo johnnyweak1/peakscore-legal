@@ -1,5 +1,4 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
 ---
 
 $body-color: {{ site.body_background_color }};
@@ -30,7 +29,10 @@ $feature-icons-background-color: {{ site.feature_icons_background_color }};
 $social-icons-foreground-color: {{ site.social_icons_foreground_color }};
 $social-icons-background-color: {{ site.social_icons_background_color }};
 
+$topbar-link-color: {{ site.topbar_link_color }};
+$topbar-link-color-hover: {{ site.topbar_link_color_hover }};
+
 @import 
     "base",
     "layout",
-    "github-markdown"
+    "github-markdown";
