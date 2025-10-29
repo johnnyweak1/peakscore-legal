@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 # Privacy Policy
-**Effective Date:** 2025-06-27
+**Effective Date:** 2025-11-01
 
 This privacy policy applies to the **Peak Score** app (hereafter referred to as the "Application") for mobile devices, created by **Jan Słaby** (hereafter referred to as the "Service Provider"), and offered as a **Freemium** service. This service is intended for use **AS IS**.
 
@@ -22,8 +22,26 @@ We **do not collect precise location data** (e.g., GPS coordinates) from your mo
 For a better user experience, we may ask you to provide certain personally identifiable information, such as:
 * Your email address
 * Your first name
+* Your birth date 
+* Your gender 
 
 This information will be retained and used strictly as described in this Privacy Policy, including for support, product updates, and promotional communication (only if applicable).
+
+
+## Profile and Preference Data You Provide
+To enable core features and personalize your experience, we store profile and app preference data you provide, including:
+- Target sleep hours
+- Strain mode
+- Recovery energy goal option
+- Max heart rate settings (formula and custom BPM)
+- Heart rate zone cut-offs (four boundaries)
+- Measurement units (energy, weight, distance)
+- Manual energy target (kcal)
+- Selected data source and selected goal
+- Legal and onboarding status (hasAcceptedLegal, hasAcceptedDisclaimer, hasCompletedOnboarding)
+- Timestamps and metadata (createdAt, completedAt, lastUpdated, schemaVersion)
+
+These values are tied to your account and used to compute metrics, personalize content, and provide core app functionality. You can update or request removal within the App or by contacting us.
 
 
 ## Data We Collect and Why
@@ -34,6 +52,11 @@ This information will be retained and used strictly as described in this Privacy
 | Crash reports and diagnostics | To identify bugs and enhance stability |
 | Email and first name (if provided) | For account-related communication and support |
 | Aggregated analytics data | For user behavior analysis and UX optimization |
+| Account profile data (email, first name, birth date, gender) | Account setup, personalization, and support |
+| Preferences and fitness configuration (sleep target, units, goals, HR settings/zones, energy target) | Provide core features, calculations, and personalization |
+| Legal acceptance and onboarding status | Compliance with legal obligations, record of consent and onboarding flow |
+| Selected source and selected goal | Feature enablement and personalization |
+| Timestamps and schema version | Data integrity, migration, support, and audit trail |
 
 
 ## Third-Party Services
@@ -42,6 +65,7 @@ We may share anonymized and aggregated data with third-party service providers t
 Below are the services we use along with links to their respective privacy policies:
 * Google Analytics for Firebase
 * Firebase Crashlytics
+* Firebase Cloud Firestore (data storage/hosting)
 * RevenueCat
 
 
@@ -63,6 +87,10 @@ If you wish to opt out of email communications or request data deletion, please 
 We retain **User-Provided Data** (such as your email) for as long as you use the Application and for a reasonable time thereafter.
 
 We retain **automatically collected data** (e.g., usage statistics, crash logs) as long as necessary to fulfill the purposes outlined in this policy.
+
+Profile and preference data are retained while your account is active and deleted upon your deletion request or account removal.
+
+Consent and legal acceptance records may be retained as necessary to demonstrate compliance.
 
 To request deletion of your data, contact us at: **peakscore.help@gmail.com**. We will respond within a reasonable timeframe.
 

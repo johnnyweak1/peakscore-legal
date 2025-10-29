@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 # Terms & Conditions
-**Effective Date:** 2025-06-27
+**Effective Date:** 2025-11-01
 
 These Terms and Conditions govern the use of the **Peak Score** mobile application (hereafter referred to as the "Application") developed by **Jan Słaby** (hereafter referred to as the "Service Provider"), and provided as a **Freemium** service.
 
@@ -31,7 +31,8 @@ Any such changes or charges will be clearly communicated to you in advance.
 
 
 ## 3. Data Collection and Processing
-The Application may collect and process **personal data** you provide in accordance with our Privacy Policy. This includes (but is not limited to) your email address, usage statistics, and technical data from your device.
+The Application may collect and process **personal data** in accordance with our Privacy Policy. This includes account data (e.g., email, first name, optional birth date and gender), usage statistics, and device technical data. It also includes profile and preference data you choose to provide to enable core features, such as target sleep hours, strain mode, recovery energy goal option, max heart rate settings (formula and custom BPM), heart rate zone cut-offs, measurement units (energy, weight, distance), manual energy targets, selected data source and selected goal, legal acceptance and onboarding status, and related timestamps and schema metadata.
+You are responsible for ensuring the accuracy of any fitness configuration values you provide; the Application uses these values to compute metrics and personalize your experience.
 
 You are responsible for maintaining the security of your device and access to the Application.
 
@@ -44,6 +45,7 @@ We strongly advise **against jailbreaking or rooting** your device. Doing so may
 The Application integrates with third-party services that have their own terms and privacy policies. By using the Application, you also agree to the terms of these services:
 * Google Analytics for Firebase
 * Firebase Crashlytics
+* Firebase Cloud Firestore (data storage/hosting)
 * RevenueCat
 
 We are not responsible for issues or data handling practices related to these services.
