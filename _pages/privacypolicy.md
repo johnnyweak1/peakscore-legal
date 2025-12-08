@@ -56,6 +56,7 @@ These values are tied to your account and used to compute metrics, personalize c
 | Preferences and fitness configuration (sleep target, units, goals, HR settings/zones, energy target) | Provide core features, calculations, and personalization |
 | Legal acceptance and onboarding status | Compliance with legal obligations, record of consent and onboarding flow |
 | Selected source and selected goal | Feature enablement and personalization |
+| Purchase and subscription status (product identifiers, subscription state, trial status, renewal date, refund status) | To manage access to paid features, validate purchases, prevent fraud, and provide support related to billing and access issues |
 | Timestamps and schema version | Data integrity, migration, support, and audit trail |
 
 
@@ -67,6 +68,7 @@ Below are the services we use along with links to their respective privacy polic
 * Firebase Crashlytics
 * Firebase Cloud Firestore (data storage/hosting)
 * RevenueCat
+These services may process information such as your app usage, crash logs, and, in the case of RevenueCat, your in-app purchase history and subscription status to manage access to paid features.
 
 
 ## Disclosure of Data

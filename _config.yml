@@ -49,33 +49,21 @@ pages_config:
 
 # Feature List
 features:
-  - title: Unified Health Dashboard
-    description: See sleep, recovery, energy, stress and vitals in one clean view
+  - title: Training Readiness Score
+    description: A simple 0-100 score that shows how ready your body is for training.
     fontawesome_icon_name: tachometer-alt
 
-  - title: Recovery Score
-    description: Wake up to a simple readiness score so you know when to push and when to rest.
-    fontawesome_icon_name: heart
-
-  - title: Sleep Insights
-    description: Track sleep quality, phases and sleep debt to recover faster and feel better.
-    fontawesome_icon_name: moon
-
-  - title: Energy Tracking
-    description: Spot your peak hours and plan work, workouts or rest for maximum impact.
-    fontawesome_icon_name: bolt
-
-  - title: Stress Monitor
-    description: Balance effort and recovery by keeping daily stress in check.
-    fontawesome_icon_name: brain
-
-  - title: Key Vitals (HRV, RHR, Respiration)
-    description: Stay in tune with HRV, resting heart rate and breathing to catch trends early.
-    fontawesome_icon_name: heartbeat
-
-  - title: Trends & Progress
-    description: Visualize weekly and monthly trends to see what truly moves the needle.
+  - title: Training Load Analytics
+    description: See whether you are pushing too hard by tracking your training load and recovery balance over time.
     fontawesome_icon_name: chart-line
+
+  - title: Readiness Trends
+    description: Visualize how your readiness score changes over time to spot patterns and long-term improvements.
+    fontawesome_icon_name: chart-area
+
+  - title: Key Vitals
+    description: Stay in tune with HRV, heart rate and breathing to catch trends early.
+    fontawesome_icon_name: heartbeat
 
   - title: Privacy First
     description: You own your data—transparent controls and secure storage by design.
@@ -87,36 +75,36 @@ features:
 
 
 # Theme Settings
-topbar_color                              : "#1E2267"
+topbar_color                              : "#464650"
 topbar_transparency                       : 1
-topbar_title_color                        : "#E6E9FE"
-topbar_link_color                         : "#E6E9FE"
-topbar_link_color_hover                   : "#B8BEF9"
+topbar_title_color                        : "#F2F2F3"
+topbar_link_color                         : "#F2F2F3"
+topbar_link_color_hover                   : "#C6C6CA"
 
 cover_image                               :                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#0B0E32"
+cover_overlay_color                       : "#15161F"
 cover_overlay_transparency                : 1
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#121849"
+body_background_color                     : "#2F303A"
 
-link_color                                : "#0A58FF"
+link_color                                : "#567EFF"
 
-app_title_color                           : "#E6E9FE"
-app_price_color                           : "#E6E9FE"
-app_description_color                     : "#E6E9FE"
+app_title_color                           : "#F2F2F3"
+app_price_color                           : "#F2F2F3"
+app_description_color                     : "#F2F2F3"
 
-feature_title_color                       : "#E6E9FE"
-feature_text_color                        : "#B8BEF9"
+feature_title_color                       : "#F2F2F3"
+feature_text_color                        : "#C6C6CA"
 
-feature_icons_foreground_color            : "#0A58FF"
+feature_icons_foreground_color            : "#567EFF"
 feature_icons_background_color            : "#AFB2D1"
 
-social_icons_foreground_color             : "#0A58FF"
-social_icons_background_color             : "#B8BEF9"
+social_icons_foreground_color             : "#567EFF"
+social_icons_background_color             : "#C6C6CA"
 
-footer_text_color                         : "#B8BEF9"
+footer_text_color                         : "#C6C6CA"
 
 
 
