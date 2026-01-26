@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Service
 include_in_header: false
+description: Peak Score Terms of Service - Read our terms and conditions for using the fitness tracking apple watch app. Effective Date: 2025-12-09.
 ---
 
 # Terms & Conditions

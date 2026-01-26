@@ -139,3 +139,7 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# URL configuration
+url: "https://www.peak-score.com"
+baseurl: ""
