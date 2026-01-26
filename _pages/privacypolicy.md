@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 include_in_header: false
-description: Peak Score Privacy Policy - Learn how we protect your data and privacy in our fitness tracking apple watch app. Effective Date: 2025-11-01.
+description: "Peak Score Privacy Policy - Learn how we protect your data and privacy in our fitness tracking apple watch app. Effective Date: 2025-11-01."
 ---
 
 # Privacy Policy
