@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 include_in_header: false
+description: Contact Peak Score - Get in touch with our team for support, feedback, or questions about our fitness tracking apple watch app.
 ---
 
 # Contact Us
