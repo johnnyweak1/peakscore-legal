@@ -2,11 +2,11 @@
 layout: page
 title: Terms of Service
 include_in_header: false
-description: "Peak Score Terms of Service - Read our terms and conditions for using the fitness tracking apple watch app. Effective Date: 2025-12-09."
+description: "Peak Score Terms of Service - Read our terms and conditions for using the fitness tracking apple watch app. Effective Date: 2026-04-10."
 ---
 
 # Terms & Conditions
-**Effective Date:** 2025-12-09
+**Effective Date:** 2026-04-10
 
 These Terms and Conditions govern the use of the **Peak Score** mobile application (hereafter referred to as the "Application") developed by **Jan Słaby** (hereafter referred to as the "Service Provider"), and provided as a **Freemium** service with optional paid subscriptions and one-time purchases.
 
@@ -66,6 +66,20 @@ You are responsible for maintaining the security of your device and access to th
 We strongly advise **against jailbreaking or rooting** your device. Doing so may compromise its security and affect the functionality of the Application.
 
 
+## 3A. Health and Fitness Data, HealthKit, and AI Coach
+
+If you choose to connect the Application to the Apple Health app (HealthKit) on your device and grant the relevant permissions, the Application may access certain health and fitness data (for example, workout information, heart rate, heart rate variability, readiness or recovery‑related metrics, and other fitness indicators exposed by Apple Health / HealthKit), as described in our Privacy Policy.
+
+This health and fitness data is used to provide core functionality of the Application, including but not limited to:
+- computing readiness scores and related metrics,
+- providing training load and recovery analytics,
+- powering the in‑app AI Coach feature so it can generate personalized coaching insights and recommendations.
+
+To generate AI Coach insights, the Application may use on‑device machine learning capabilities provided by your operating system (for example, Apple Intelligence). Health and fitness data used for AI Coach recommendations is processed locally on your device and, for this purpose, is not sent to our servers.
+
+Health and fitness data obtained via Apple Health / HealthKit is not used for advertising, targeted marketing, or sale to data brokers. Some features of the Application (including AI Coach or readiness‑related insights) may be unavailable or limited if you revoke HealthKit permissions.
+
+
 ## 4. Third-Party Services
 The Application integrates with third-party services that have their own terms and privacy policies. By using the Application, you also agree to the terms of these services:
 * Google Analytics for Firebase
@@ -103,6 +117,17 @@ To the maximum extent permitted by law, the Service Provider disclaims any liabi
 * Errors or omissions in the content
 * Direct or indirect damages caused by the use or inability to use the Application
 * Interruptions, bugs, or data loss
+
+
+## 7A. AI Coach, Automated Recommendations, and No Medical Advice
+
+The Application may provide automated insights and recommendations through an AI Coach feature. These recommendations are generated based on the data you provide or allow the Application to access (including health and fitness data from Apple Health / HealthKit, where permitted) and on‑device machine learning capabilities provided by your operating system (for example, Apple Intelligence).
+
+AI Coach recommendations are intended solely for informational, educational, and fitness‑related purposes. They **do not constitute medical advice, diagnosis, or treatment**, and are not a substitute for consultation with a physician or other qualified healthcare professional.
+
+You should not disregard, avoid, or delay obtaining medical or health‑related advice from a healthcare professional because of information or recommendations you receive from the Application. If you have any medical condition, symptoms, or concerns about your health, you should consult a doctor or other qualified healthcare provider before making significant changes to your training, lifestyle, or activity based on the Application.
+
+You acknowledge and agree that you are solely responsible for your use of AI Coach recommendations and any decisions you make based on them. To the maximum extent permitted by law, the Service Provider is not liable for any injury, damage, or loss arising from your reliance on AI Coach recommendations or other content provided by the Application instead of seeking appropriate medical care.
 
 
 ## 8. Updates and Termination
