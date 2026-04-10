@@ -2,11 +2,11 @@
 layout: page
 title: Privacy Policy
 include_in_header: false
-description: "Peak Score Privacy Policy - Learn how we protect your data and privacy in our fitness tracking apple watch app. Effective Date: 2025-11-01."
+description: "Peak Score Privacy Policy - Learn how we protect your data and privacy in our fitness tracking apple watch app. Effective Date: 2026-04-10."
 ---
 
 # Privacy Policy
-**Effective Date:** 2025-11-01
+**Effective Date:** 2026-04-10
 
 This privacy policy applies to the **Peak Score** app (hereafter referred to as the "Application") for mobile devices, created by **Jan Słaby** (hereafter referred to as the "Service Provider"), and offered as a **Freemium** service. This service is intended for use **AS IS**.
 
@@ -44,6 +44,21 @@ To enable core features and personalize your experience, we store profile and ap
 
 These values are tied to your account and used to compute metrics, personalize content, and provide core app functionality. You can update or request removal within the App or by contacting us.
 
+## Health and Fitness Data from Apple Health / HealthKit
+
+If you choose to connect the Application to the Apple Health app (HealthKit) on your device, we may access certain health and fitness data that you explicitly allow through the system permissions. Depending on your choices, this may include, for example, workout information, heart rate, heart rate variability, readiness or recovery‑related metrics, and other fitness indicators exposed by Apple Health / HealthKit.
+
+We use this health and fitness data to:
+- compute readiness scores and related metrics,
+- provide training load and recovery analytics,
+- power the in‑app AI Coach feature so it can generate personalized coaching insights and recommendations.
+
+Health and fitness data from Apple Health / HealthKit is processed in a privacy‑preserving way. For the purpose of generating AI Coach recommendations, processing occurs on your device using on‑device machine learning capabilities provided by your operating system (for example, Apple Intelligence). We do not send your raw Apple Health / HealthKit data to our servers solely in order to generate AI Coach recommendations.
+
+Health and fitness data obtained via Apple Health / HealthKit is **not used for advertising, targeted marketing, or sale to data brokers**.
+
+You can manage or revoke the Application's access to Apple Health / HealthKit data at any time in the Apple Health app or your device settings. If you revoke access, some features (including AI Coach or readiness‑related insights) may no longer function as intended.
+
 
 ## Data We Collect and Why
 
@@ -59,6 +74,7 @@ These values are tied to your account and used to compute metrics, personalize c
 | Selected source and selected goal | Feature enablement and personalization |
 | Purchase and subscription status (product identifiers, subscription state, trial status, renewal date, refund status) | To manage access to paid features, validate purchases, prevent fraud, and provide support related to billing and access issues |
 | Timestamps and schema version | Data integrity, migration, support, and audit trail |
+
 
 
 ## Third-Party Services
