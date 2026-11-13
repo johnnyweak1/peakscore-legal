@@ -1,0 +1,21 @@
+{
+  "name": "Peak Score",
+  "short_name": "Peak Score",
+  "description": "Training Readiness on your Apple Watch",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#08090E",
+  "theme_color": "#08090E",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}

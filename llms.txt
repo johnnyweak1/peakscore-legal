@@ -1,0 +1,24 @@
+# Peak Score
+
+> Peak Score is an iOS + Apple Watch app that turns sleep, HRV and workout data into one daily training call: Rest, Keep Easy or Push Hard.
+
+## What it does
+
+- 0–100 daily Training Readiness score, refreshed each morning, with the components behind it (sleep, overnight HRV, resting HR, respiratory rate, training load)
+- Tomorrow's readiness forecast, available the night before
+- Full Recovery Time in hours, counted down on the Apple Watch after each workout (Long / Fair / Short)
+- Workout analytics: heart-rate zones, effort, training load and cardio focus over the last 4 weeks
+- Workout creator on iPhone — intervals, goals for time, distance or calories, scheduled or started straight from the Apple Watch
+- Built-in AI Coach powered by Apple Intelligence
+- All analysis runs on-device: health data is read from Apple Health and never leaves the iPhone — never sent, sold or shared
+
+## Who it is for
+
+Anyone who trains with an Apple Watch: gym, running, cycling, team sports or hybrid training. Works with the Apple Watch models the user already owns.
+
+## Links
+
+- Website (English): https://www.peak-score.com/
+- Website (Polski): https://www.peak-score.com/pl/
+- Other locales: /cs/ /da/ /de/ /el/ /es/ /fi/ /fr/ /it/ /ja/ /ko/ /lt/ /nl/ /no/ /pt/ /sv/ /tr/ /zh/ /zh-tw/
+- App Store: https://apps.apple.com/app/id6749524670
